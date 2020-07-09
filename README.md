@@ -12,7 +12,7 @@ Hi! I'm Jordan a senior Java Developer for approximatively 10 years. I love to l
 ### Education
 
 - Epitech Graduate Diploma in Information Technology | Paris 
-- Double Masters Degree in Cyber Security | Kent University - CanterBury, Kent
+- Double Masters Degree in Cyber Security | Kent University - Canterbury, Kent
 
 ## Get in touch
 
