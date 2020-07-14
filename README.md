@@ -1,6 +1,6 @@
 ## Software Developer - @Neferett
 
-Hi! I'm Jordan a senior Java Developer for approximatively 10 years. I love to learn new technology around development. I'm currently living in France and working abroad remotely for varius company around Finance and CyberSecurity💕.
+Hi! I'm Jordan a senior Java Developer for approximatively 10 years. I love to learn new technology around development. I'm currently living in France and working abroad remotely for varius company around Health, Finance and CyberSecurity💕.
 
 ## My Experiences
 
@@ -11,7 +11,7 @@ Hi! I'm Jordan a senior Java Developer for approximatively 10 years. I love to l
 
 ### Education
 
-- Epitech Graduate Diploma in Information Technology | Paris 
+- Epitech Graduate Diploma in Information Technology (Master) | Paris 
 - Double Masters Degree in Cyber Security | Kent University - Canterbury, Kent
 
 ## Get in touch
