@@ -1,4 +1,4 @@
-## Software Developer - @Neferett [![HitCount](http://hits.dwyl.com/jordanbonaldi/jordanbonaldi/jordanbonaldi.svg)](http://hits.dwyl.com/jordanbonaldi/jordanbonaldi/jordanbonaldi)
+## Software Developer - @Neferett
 
 Hi! I'm Jordan a senior Java Developer for approximatively 10 years. I love to learn new technology around development. I'm currently living in France and working abroad remotely for varius company around Health, Finance and CyberSecurity💕.
 
