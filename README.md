@@ -5,8 +5,8 @@ Hi! I'm Jordan a Senior BackEnd Software Engineer. I'm living in France and work
 ## My Experiences
 
 - Since 2010 - Java Core (Minecraft Project, CoreEngine, Hotels Certification (Expedia.com, Hotels.com) systems)
-- Since 2018 - PHP Symfony (Companies: Hotels-Optimiser, Mobibase.com (Project Global Environment Media))
-- Since 2018 - NodeJS (Fintech projects around automated trading softwares, API, Online Panels, Accounting softwares)
+- Since 2018 - PHP Symfony (Companies: Hotels-Optimiser, Mobibase.com (Project Global Environment Media), Makemewin (Smart-Copilot))
+- Since 2018 - NodeJS, Typescript (Fintech projects around automated trading softwares, API, Online Panels, Accounting softwares)
 - Since 2019 - Android BackEnd Development (CyberSecurity mobile application: PriVELT.ac.uk)
 
 ### Education
@@ -23,6 +23,7 @@ Hi! I'm Jordan a Senior BackEnd Software Engineer. I'm living in France and work
       <img src="https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" /> 
       <img src="https://img.shields.io/badge/C/C++-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
       <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" /> 
+      <img src="https://img.shields.io/badge/Cloud-Function-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
     </p>
   <h4>Web Application and Back-End Skills</h4>
     <p>
