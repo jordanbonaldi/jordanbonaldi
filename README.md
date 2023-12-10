@@ -23,7 +23,7 @@ Hi! I'm Jordan a Senior BackEnd Software Engineer. I'm living in France and work
       <img src="https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" /> 
       <img src="https://img.shields.io/badge/C/C++-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
       <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" /> 
-      <img src="https://img.shields.io/badge/Cloud-Function-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+      <img src="https://img.shields.io/badge/CloudFunction-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
     </p>
   <h4>Web Application and Back-End Skills</h4>
     <p>
@@ -39,11 +39,10 @@ Hi! I'm Jordan a Senior BackEnd Software Engineer. I'm living in France and work
       <img src="https://img.shields.io/badge/Redis-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
       <img src="https://img.shields.io/badge/RabbitMQ-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
       <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
+      <img src="https://img.shields.io/badge/Hasura-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
     </p>
   <h4>Others</h4>
     <p>
-      <img src="https://img.shields.io/badge/Maven%20(Deployment:%20Stagging,%20Release...)-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
-      <img src="https://img.shields.io/badge/NodeJS%20(Deployment:%20Stagging,%20Release...)-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
       <img src="https://img.shields.io/badge/System%20Administration-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" />
       <img src="https://img.shields.io/badge/Team%20Leading-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-important" />
     </p>
