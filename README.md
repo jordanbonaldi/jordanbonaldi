@@ -1,6 +1,6 @@
 ## Software Developer - @Neferett
 
-Hi! I'm Jordan a Senior BackEnd Software Engineer for approximatively 10 years. I love to learn new technology around development. I'm currently living in France and working abroad remotely for varius company around Health, Finance and CyberSecurity💕.
+Hi! I'm Jordan a Senior BackEnd Software Engineer. I'm living in France and working abroad remotely for varius company around Health, Finance and CyberSecurity💕.
 
 ## My Experiences
 
