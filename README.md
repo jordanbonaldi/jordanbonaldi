@@ -8,6 +8,7 @@ Hi! I'm Jordan a Senior BackEnd Software Engineer. I'm living in France and work
 - Since 2018 - PHP Symfony (Companies: Hotels-Optimiser, Mobibase.com (Project Global Environment Media), Makemewin (Smart-Copilot))
 - Since 2018 - NodeJS, Typescript (Fintech projects around automated trading softwares, API, Online Panels, Accounting softwares)
 - Since 2019 - Android BackEnd Development (CyberSecurity mobile application: PriVELT.ac.uk)
+- Since 2022 - Cloudflare Workers, Durable Objects, Queues, R2. Trigger.dev, Neon, Temporal.io, Cloud Functions, Cube.dev, Hasura, Fly.io, Novu.co, Svix.io
 
 ### Education
 
